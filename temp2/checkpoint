@@ -1,0 +1,2 @@
+model_checkpoint_path: "my_model_deepLearning_batch_norm_final.ckpt"
+all_model_checkpoint_paths: "my_model_deepLearning_batch_norm_final.ckpt"

@@ -1,0 +1,6 @@
+model_checkpoint_path: "my_modelfinal.ckpt"
+all_model_checkpoint_paths: "my_model12360.ckpt"
+all_model_checkpoint_paths: "my_model14420.ckpt"
+all_model_checkpoint_paths: "my_model16480.ckpt"
+all_model_checkpoint_paths: "my_model18540.ckpt"
+all_model_checkpoint_paths: "my_modelfinal.ckpt"
